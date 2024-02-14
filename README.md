@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import normalizeIndex from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-normalize-index@esm/index.mjs';
+import normalizeIndex from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-normalize-index@v0.2.0-esm/index.mjs';
 ```
 
 #### normalizeIndex( idx, max )
@@ -104,7 +104,7 @@ idx = normalizeIndex( -15, 10 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import normalizeIndex from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-normalize-index@esm/index.mjs';
+import normalizeIndex from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-normalize-index@v0.2.0-esm/index.mjs';
 
 var idx;
 var out;
