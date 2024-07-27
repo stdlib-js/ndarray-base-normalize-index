@@ -2,9 +2,49 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.2">
 
-## Unreleased (2024-07-01)
+## 0.2.2 (2024-07-27)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.1">
+
+## 0.2.1 (2024-02-22)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.0">
+
+## 0.2.0 (2024-02-14)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2023-11-05)
+
+<section class="features">
+
+### Features
+
+-   [`512c8a8`](https://github.com/stdlib-js/stdlib/commit/512c8a8f75a158a42f9ea9113bda929e0c28519e) - add `ndarray/base/normalize-index`
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,7 +52,7 @@
 
 <details>
 
--   [`a591e05`](https://github.com/stdlib-js/stdlib/commit/a591e052cf1b1515c267781b914c6a482e150425) - **test:** fix test configuration _(by Athan Reines)_
+-   [`512c8a8`](https://github.com/stdlib-js/stdlib/commit/512c8a8f75a158a42f9ea9113bda929e0c28519e) - **feat:** add `ndarray/base/normalize-index` _(by Athan Reines)_
 
 </details>
 
