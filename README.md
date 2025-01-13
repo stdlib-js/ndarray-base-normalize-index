@@ -103,6 +103,10 @@ idx = normalizeIndex( -15, 10 );
 
 <section class="notes">
 
+## Notes
+
+-   During normalization, a negative index is converted to a nonnegative index according to `max + idx + 1`. If, after normalization, the resolved index is still negative, the value is considered out-of-bounds.
+
 </section>
 
 <!-- /.notes -->
@@ -176,7 +180,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
